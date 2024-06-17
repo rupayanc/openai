@@ -4,6 +4,11 @@
     "url": "https://github.com/natto-maki/ComfyUI-NegiTools.git",
     "path": "custom_nodes",
     "fetch_type": "git-clone"
+  },
+  {
+    "url": "https://github.com/pythongosssss/ComfyUI-Custom-Scripts.git",
+    "path": "custom_nodes",
+    "fetch_type": "git-clone"
   }
 ]
       
